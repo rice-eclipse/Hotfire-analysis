@@ -1,0 +1,5 @@
+# Ignore all CSV, RAW, LOG, and NPZ files
+*.csv
+*.raw
+*.npz
+*.log
